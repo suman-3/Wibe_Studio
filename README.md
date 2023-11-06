@@ -5,7 +5,7 @@
 This repository contains final code for Fashion Studio Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+[https://wibe-studio.netlify.app/](https://wibe-studio-beta.vercel.app/) <br />
 
 
 ### Images of The Fashion Studio Website:
